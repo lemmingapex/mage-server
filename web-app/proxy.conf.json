@@ -1,0 +1,11 @@
+[
+  {
+    "context": [
+        "/api",
+        "/auth",
+        "/plugins"
+    ],
+    "target": "http://localhost:4242",
+    "secure": false
+  }
+]
